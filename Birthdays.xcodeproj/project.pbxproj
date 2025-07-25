@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		BD405E1B2E33BF430031AD41 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD405E1A2E33BF430031AD41 /* Friend.swift */; };
+		BD405E1F2E33DF270031AD41 /* EditFriendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD405E1E2E33DF270031AD41 /* EditFriendView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BD405E0C2E33BE700031AD41 /* Birthdays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Birthdays.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD405E1A2E33BF430031AD41 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
+		BD405E1E2E33DF270031AD41 /* EditFriendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditFriendView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -38,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				BD405E1A2E33BF430031AD41 /* Friend.swift */,
+				BD405E1E2E33DF270031AD41 /* EditFriendView.swift */,
 				BD405E0E2E33BE700031AD41 /* Birthdays */,
 				BD405E0D2E33BE700031AD41 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD405E1F2E33DF270031AD41 /* EditFriendView.swift in Sources */,
 				BD405E1B2E33BF430031AD41 /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
